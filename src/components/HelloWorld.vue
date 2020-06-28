@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
+    <h1>这是我的一个脚手架</h1>
+    <h2>你好世界 HelloWorld</h2>
     <h2>Essential Links</h2>
     <ul>
       <li>
